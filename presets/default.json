@@ -1,5 +1,5 @@
 {
-    "default_model": "01_ThinkDiffusionXL.safetensors",
+    "default_model": "_td/00-ThinkDiffusionXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,7 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "01_ThinkDiffusionXL.safetensors": "https://huggingface.co/ThinkDiffusion/ThinkDiffusionXL/blob/main/ThinkDiffusionXL.safetensors"
+        "00-ThinkDiffusionXL.safetensors": "https://huggingface.co/ThinkDiffusion/ThinkDiffusionXL/blob/main/ThinkDiffusionXL.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
