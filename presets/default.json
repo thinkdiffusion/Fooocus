@@ -42,6 +42,7 @@
         "Fooocus Sharp"
     ],
     "default_aspect_ratio": "1152*896",
+    "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "00-ThinkDiffusionXL.safetensors": "https://huggingface.co/ThinkDiffusion/ThinkDiffusionXL/blob/main/ThinkDiffusionXL.safetensors"
     },
